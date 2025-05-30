@@ -57,8 +57,8 @@ const getPackageJson = () => {
     };
   } catch {
     return {
-      name: 'bolt.diy',
-      description: 'A DIY LLM interface',
+      name: 'ATLAS',
+      description: 'A KENYAN LLM interface',
       license: 'MIT',
       dependencies: {},
       devDependencies: {},
